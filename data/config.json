@@ -1,0 +1,9 @@
+{
+    "threads": 25,
+    "thread_retry_delay": 1.5,
+
+    "full_name": "",
+
+    "verification_attempts": 7,
+    "verification_delay": 1.5
+}
