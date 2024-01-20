@@ -5,6 +5,13 @@ https://t.me/guildedfunny
 ## `✴️` `REQUIREMENTS`
 - `pip install -r requirements.txt`
 - `python3 -m pip install -r requirements.txt`
+## `✴️` `FILES`
+```
+./data/output/accounts.txt -- Generated Accounts
+./data/output/accounts-session.txt -- Generated Accounts' HMAC Signed Session
+./data/output/accounts-verified.txt -- Verified Accounts
+./data/output/accounts-verified-session.txt -- Verified Accounts' HMAC Signed Session
+```
 ## `✴️` `SETUP`
 `config.json`
 ```json
