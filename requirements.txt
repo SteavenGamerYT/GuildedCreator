@@ -1,5 +1,0 @@
-colorama
-pytz
-requests
-tls-client
-ua-generator
